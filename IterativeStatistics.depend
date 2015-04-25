@@ -1,0 +1,264 @@
+# depslib dependency file v1.0
+1407114203 source:c:\users\mwadswo\documents\project\iterativestatistics\dice.cpp
+	<stdint.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	"include/dice.hpp"
+	"include/dice.hpp"
+
+1424832619 source:c:\users\mwadswo\documents\project\iterativestatistics\main.cpp
+	<iostream>
+	"dice.hpp"
+	"MyFunctions.hpp"
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	"RollParams.hpp"
+	"RollResults.hpp"
+	"Sequence.h"
+	"assert.hpp"
+
+1400957621 c:\users\mwadswo\documents\project\iterativestatistics\dice.cpp
+	<iostream>
+
+1421622483 c:\users\mwadswo\documents\project\iterativestatistics\include\dice.hpp
+
+1406481832 source:c:\users\mwadswo\documents\project\iterativestatistics\functions.cpp
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	"dice.hpp"
+
+1406427237 c:\users\mwadswo\documents\project\iterativestatistics\include\functions.hpp
+
+1426883958 c:\users\mwadswo\documents\project\iterativestatistics\include\myfunctions.hpp
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<vector>
+	<iostream>
+	"RollParams.hpp"
+	"RollResults.hpp"
+	"Status.hpp"
+	"Sequence.h"
+
+1419183200 source:c:\users\mwadswo\documents\project\iterativestatistics\myfunctions.cpp
+	"MyFunctions.hpp"
+
+1424317983 c:\users\mwadswo\documents\project\iterativestatistics\include\rollparams.hpp
+	"dice.hpp"
+	<stdint.h>
+	<vector>
+
+1424320008 c:\users\mwadswo\documents\project\iterativestatistics\include\rollresults.hpp
+	"RollParams.hpp"
+
+1424317983 source:c:\users\mwadswo\documents\project\iterativestatistics\src\rollparams.cpp
+	"RollParams.hpp"
+	<iostream>
+	<vector>
+	"Assert.hpp"
+
+1424567770 source:c:\users\mwadswo\documents\project\iterativestatistics\src\rollresults.cpp
+	<iostream>
+	"RollResults.hpp"
+
+1419099508 c:\users\mwadswo\documents\project\iterativestatistics\include\status.hpp
+
+1407114204 source:d:\documents\projects\iterativestatistics\dice.cpp
+	<stdint.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	"include/dice.hpp"
+	"include/dice.hpp"
+
+1421618883 d:\documents\projects\iterativestatistics\include\dice.hpp
+
+1422818133 source:d:\documents\projects\iterativestatistics\main.cpp
+	<iostream>
+	"dice.hpp"
+	"MyFunctions.hpp"
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	"RollParams.hpp"
+	"RollResults.hpp"
+	"Sequence.h"
+	"assert.hpp"
+
+1422751546 d:\documents\projects\iterativestatistics\include\myfunctions.hpp
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<vector>
+	<iostream>
+	"RollParams.hpp"
+	"RollResults.hpp"
+	"Status.hpp"
+	"Sequence.h"
+
+1422818133 d:\documents\projects\iterativestatistics\include\rollparams.hpp
+	"dice.hpp"
+	<stdint.h>
+	<vector>
+
+1422819039 d:\documents\projects\iterativestatistics\include\rollresults.hpp
+	"RollParams.hpp"
+
+1419095908 d:\documents\projects\iterativestatistics\include\status.hpp
+
+1422816695 source:d:\documents\projects\iterativestatistics\src\rollparams.cpp
+	"RollParams.hpp"
+	<iostream>
+	<vector>
+
+1409101028 source:d:\documents\projects\iterativestatistics\src\rollresults.cpp
+	<iostream>
+	"RollResults.hpp"
+
+1422819039 source:d:\documents\projects\iterativestatistics\myfunctions.cpp
+	"MyFunctions.hpp"
+	"Sequence.h"
+	"Assert.hpp"
+
+1422812582 d:\documents\projects\iterativestatistics\include\sequence.h
+	<stdint.h>
+	<vector>
+	"RollParams.hpp"
+	"RollResults.hpp"
+	"Status.hpp"
+	"MyFunctions.hpp"
+
+1422818524 source:d:\documents\projects\iterativestatistics\src\sequence.cpp
+	"Sequence.h"
+	"dice.hpp"
+	"RollParams.hpp"
+	"RollResults.hpp"
+	"assert.hpp"
+
+1422730022 d:\documents\projects\iterativestatistics\include\assert.hpp
+	<stdio.h>
+	<stdarg.h>
+	<sys/types.h>
+
+1407114204 source:c:\users\mwadswo\documents\project\iterativestatistics\iterativestatistics\dice.cpp
+	<stdint.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	"include/dice.hpp"
+	"include/dice.hpp"
+
+1421622483 c:\users\mwadswo\documents\project\iterativestatistics\iterativestatistics\include\dice.hpp
+
+1424832619 source:c:\users\mwadswo\documents\project\iterativestatistics\iterativestatistics\main.cpp
+	<iostream>
+	"dice.hpp"
+	"MyFunctions.hpp"
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	"RollParams.hpp"
+	"RollResults.hpp"
+	"Sequence.h"
+	"assert.hpp"
+
+1426883958 c:\users\mwadswo\documents\project\iterativestatistics\iterativestatistics\include\myfunctions.hpp
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<vector>
+	<iostream>
+	"RollParams.hpp"
+	"RollResults.hpp"
+	"Status.hpp"
+	"Sequence.h"
+
+1424317983 c:\users\mwadswo\documents\project\iterativestatistics\iterativestatistics\include\rollparams.hpp
+	"dice.hpp"
+	<stdint.h>
+	<vector>
+
+1424320008 c:\users\mwadswo\documents\project\iterativestatistics\iterativestatistics\include\rollresults.hpp
+	"RollParams.hpp"
+
+1419099508 c:\users\mwadswo\documents\project\iterativestatistics\iterativestatistics\include\status.hpp
+
+1424317983 c:\users\mwadswo\documents\project\iterativestatistics\iterativestatistics\include\sequence.h
+	<stdint.h>
+	<vector>
+	"RollParams.hpp"
+	"RollResults.hpp"
+	"Status.hpp"
+	"MyFunctions.hpp"
+
+1426891442 c:\users\mwadswo\documents\project\iterativestatistics\iterativestatistics\include\assert.hpp
+	<stdio.h>
+	<stdarg.h>
+	<sys/types.h>
+	<cstdlib>
+
+1422819039 source:c:\users\mwadswo\documents\project\iterativestatistics\iterativestatistics\myfunctions.cpp
+	"MyFunctions.hpp"
+	"Sequence.h"
+	"Assert.hpp"
+
+1424567770 source:c:\users\mwadswo\documents\project\iterativestatistics\iterativestatistics\src\rollresults.cpp
+	<iostream>
+	"RollResults.hpp"
+
+1424632563 source:c:\users\mwadswo\documents\project\iterativestatistics\iterativestatistics\src\sequence.cpp
+	"Sequence.h"
+	"dice.hpp"
+	"RollParams.hpp"
+	"RollResults.hpp"
+	"assert.hpp"
+
+1424317983 source:c:\users\mwadswo\documents\project\iterativestatistics\iterativestatistics\src\rollparams.cpp
+	"RollParams.hpp"
+	<iostream>
+	<vector>
+	"Assert.hpp"
+
+1423876151 source:c:\users\mwadswo\documents\project\iterativestatistics\iterativestatistics\src\dice.cpp
+	<stdint.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	"dice.hpp"
+
+1424827654 source:c:\users\mwadswo\documents\project\iterativestatistics\iterativestatistics\src\myfunctions.cpp
+	"MyFunctions.hpp"
+	"Sequence.h"
+	"Assert.hpp"
+
+1424317983 c:\users\mwadswo\documents\project\iterativestatistics\include\sequence.h
+	<stdint.h>
+	<vector>
+	"RollParams.hpp"
+	"RollResults.hpp"
+	"Status.hpp"
+	"MyFunctions.hpp"
+
+1426891442 c:\users\mwadswo\documents\project\iterativestatistics\include\assert.hpp
+	<stdio.h>
+	<stdarg.h>
+	<sys/types.h>
+	<cstdlib>
+
+1423876151 source:c:\users\mwadswo\documents\project\iterativestatistics\src\dice.cpp
+	<stdint.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	"dice.hpp"
+
+1424632563 source:c:\users\mwadswo\documents\project\iterativestatistics\src\sequence.cpp
+	"Sequence.h"
+	"dice.hpp"
+	"RollParams.hpp"
+	"RollResults.hpp"
+	"assert.hpp"
+

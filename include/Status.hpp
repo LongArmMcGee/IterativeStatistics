@@ -1,0 +1,9 @@
+#ifndef STATUS_HPP_INCLUDED
+#define STATUS_HPP_INCLUDED
+
+enum Status{
+    STATUS_GOO0D,
+    STATUS_INVALID_PARAM
+};
+
+#endif // STATUS_HPP_INCLUDED
