@@ -4,7 +4,7 @@
 #include <stdlib.h> //rand, srand
 #include <stdio.h>  //null
 #include <time.h> //time
-//#include <vector>
+#include <vector>
 //using namespace std; from dice.hpp
 #include "RollParams.hpp"
 #include "RollResults.hpp"

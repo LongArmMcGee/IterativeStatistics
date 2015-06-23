@@ -1,6 +1,8 @@
 #include "MyFunctions.hpp"
 #include "Sequence.h"
 #include "Assert.hpp"
+#include "CSVFileHandler.hpp"
+
 void Initialize()
 {
     // This initializes the random number generator with a seed
@@ -107,6 +109,9 @@ RollResults& RollD6(RollParams& ParamsInput, RollResults& PrevResults)
     {
         //generate random number values 1-6
         randVal = rand() % 6 + 1;
+
+        // Debug code to record rand values
+        CSVFileHandler::PrintUintToCSV(randVal);
 
         for(uint16_t i=0; i<PassValues.size(); i++)
         {

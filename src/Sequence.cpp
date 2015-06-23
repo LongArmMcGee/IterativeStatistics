@@ -130,12 +130,7 @@ float Sequence::RunSequence()
             //ASSERT(false); // Make this result vector assigned via the set and use a heap var
             RollResults Results = RollDice(*itParams,(*m_ResultsVector)[n-1]);
             m_ResultsVector->push_back(Results);
-
-            //cout << endl << "RunSequence Roll Results";
-            //Results.Print();
-
         }
-        //*(GetParamsVector()).Print();
 
         itParams++;
         itResults++;
@@ -147,8 +142,6 @@ float Sequence::RunSequence()
     float fPassRolls = GetResultsVector()->back().GetulPassRolls();//ulPassRolls;
 
     fPercentPass = fPassRolls / fNumRolls ;
-
-
 
     return fPercentPass;
 }

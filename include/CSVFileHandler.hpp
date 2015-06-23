@@ -1,8 +1,11 @@
 #ifndef CSVFILEHANDLER_HPP_INCLUDED
 #define CSVFILEHANDLER_HPP_INCLUDED
 
-void InitializeFileHandler(){};
+namespace CSVFileHandler{
 
-void RecordRandNumCSV();
+void InitializeFileHandler();
 
+void PrintUintToCSV(uint16_t ValToPrint);
+
+}
 #endif // CSVFILEHANDLER_HPP_INCLUDED
